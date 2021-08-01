@@ -1,5 +1,9 @@
 # calendar
 
+## Create project in firebase
+
+## Generate firebase credentials and put them in main.js file
+
 ## Project setup
 ```
 npm install
