@@ -1,8 +1,10 @@
 # calendar
 
-## Create project in firebase
+### Before
 
-## Generate firebase credentials and put them in main.js file
+* Create project in firebase
+* Generate firebase credentials 
+* Add firebase credentials in main.js file
 
 ## Project setup
 ```
